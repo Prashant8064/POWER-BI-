@@ -1,54 +1,51 @@
-# 📊 Power BI Profit Dashboard
+📊 Power BI Projects Repository
 
-A comprehensive Profit Analysis dashboard project built using **Power BI**. This project explores regional, temporal, and product-category-based profit trends using advanced **DAX**, **visual analytics**, and **forecasting models**.
 
----
 
-## 📁 Project Structure
 
-| File/Folder | Description |
-|-------------|-------------|
-| `Sales_Dashboard_Project.csv` | Raw transactional sales data used for analysis |
-| `Profit_Analysis_Dashboard.pdf` | Final Power BI dashboard report |
-| `Profit_Analysis_Dashboard (1).pdf` | Additional or updated dashboard version |
-| `powerbinotes-200908022837.pdf` | In-depth notes on Power BI, DAX, and BI concepts |
 
----
 
-## 🔍 Key Dashboard Features
+Welcome to my Power BI Projects Repository 🚀
+This repository contains dashboards, datasets, notes, and certifications demonstrating my skills in Power BI for data visualization, business insights, and analytics.
 
-- 📌 Region-wise Profit Analysis
-- 📆 Monthly & Weekly Profit Trends with Forecasting
-- 📦 Product Category Performance
-- 📈 Moving Average & Running Profit Tracking
-- 🧠 DAX-based Calculated Measures
-- 🧩 Drill-throughs and Visual Interactions
+📂 Repository Contents
+📊 Dashboards
 
----
+📈 Total_Sales_Analysis_Dashboard.pdf – Comprehensive sales analysis with KPIs and trends.
 
-## 🛠 Tools & Technologies Used
+📊 Total_Sales_Analysis_Dashboard (1).pdf – Alternate version of the total sales dashboard.
 
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **CSV Data Source**
-- **Visual Analytics and BI Concepts**
+💹 Sales_Dashboard_Project.csv – Dataset used for sales profit analysis in Power BI.
 
----
+📘 Notes & Learning Resources
 
-## 📜 How to Use
+📝 powerbinotes-200908022837.pdf – Detailed Power BI notes covering dashboards, charts, and functions.
 
-1. Open Power BI Desktop.
-2. Load the `Sales_Dashboard_Project.csv` dataset.
-3. Use the notes in `powerbinotes-200908022837.pdf` to build the dashboard from scratch **OR** refer to the `.pdf` reports for layout & insights.
+📜 Certification
 
----
+🏅 8489612_84716311750364782614.pdf – Simplilearn Power BI course certificate.
 
-## 📌 Author
+🏆 Skills Demonstrated
 
-- GitHub: [@Prashant8064](https://github.com/Prashant8064)
+✔ Data visualization with Power BI
+✔ Creating interactive dashboards & reports
+✔ KPI analysis and trend tracking
+✔ Dataset management and data cleaning
+✔ Business insights and decision-making
 
----
+🚀 How to Use
 
-## 📝 License
+Download the .pdf dashboards and .csv dataset.
 
-This project is licensed under the [MIT License](LICENSE).
+Open the dataset in Power BI Desktop or Power BI Service.
+
+Explore interactive dashboards or recreate visualizations using the dataset.
+
+📧 Contact
+
+👤 Prashant Gupta
+🎓 IIT Patna | B.Sc Computer Science & Data Analytics
+📩 Email
+🌐 GitHub Profile
+
+✨ This repository demonstrates my ability to leverage Power BI for business analysis, reporting, and visualization.
